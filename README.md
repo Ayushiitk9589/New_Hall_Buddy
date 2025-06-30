@@ -26,7 +26,7 @@ Broadly, the application will support the following:
 | Apoorv Tandon          | 220192   | apoorvt22@iitk.ac.in    |
 | Taneshq Zendey         | 221123   | taneshq22@iitk.ac.in    |
 | Tanishq Maheshwari     | 221128   | tanishqm22@iitk.ac.in   |
-| Ayush                  | 220259   | ayushs@iit.ac.in        |
+| Ayush Sahu             | 220271   | sayush22@iit.ac.in      |
 | Samarpan Verma         | 220943   | samarpanv22@iitk.ac.in  |
 | Rohan Batra            | 210868   | rohanb21@iitk.ac.in     |
 
